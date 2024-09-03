@@ -17,4 +17,13 @@ php artisan serve
 php artisan migrate --seed
 ```
 
+## Login Credentials
+
+Use the following credentials to log in:
+
+- **Email:** `admin@admin.com`
+- **Phone:** `01015127991`
+- **Password:** `admin#123@password_`
+
+
 
